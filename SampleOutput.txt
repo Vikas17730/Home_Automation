@@ -1,0 +1,1088 @@
+Sensor ID: T_R_1 Temperature: 13.7 time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: H_R_1 Humidity: 55.0 time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:04:07 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 14.4 time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: H_R_2 Humidity: 56.0 time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:04:07 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 13.4 time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: H_R_3 Humidity: 55.0 time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:04:07 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 13.8 time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: H_R_4 Humidity: 55.0 time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:04:07 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 13.8 time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: H_R_5 Humidity: 55.0 time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:04:07 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 1 RFID Tag: 42 Time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 1 RFID Tag: 94 Time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 5 Time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 0 RFID Tag: 74 Time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 51 Time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 17 Time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 0 RFID Tag: 61 Time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:04:07 IST 2016
+Sensor ID: T_R_1 Temperature: 15.0 time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: H_R_1 Humidity: 55.0 time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:04:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 13.8 time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: H_R_2 Humidity: 56.0 time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:04:12 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 13.5 time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: H_R_3 Humidity: 55.0 time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:04:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 14.7 time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: H_R_4 Humidity: 56.0 time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:04:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 14.4 time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: H_R_5 Humidity: 55.0 time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:04:12 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 35 Time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 1 RFID Tag: 92 Time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 21 Time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 1 RFID Tag: 27 Time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 70 Time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 0 RFID Tag: 91 Time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 0 RFID Tag: 31 Time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:04:12 IST 2016
+Sensor ID: T_R_1 Temperature: 14.9 time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: H_R_1 Humidity: 55.0 time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:04:17 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 14.3 time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: H_R_2 Humidity: 56.0 time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:04:17 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 13.8 time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: H_R_3 Humidity: 55.0 time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:04:17 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 15.0 time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: H_R_4 Humidity: 56.0 time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:04:17 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 14.5 time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: H_R_5 Humidity: 55.0 time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:04:17 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 70 Time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 0 RFID Tag: 13 Time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 64 Time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 0 RFID Tag: 44 Time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 5 Time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 50 Time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 58 Time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:04:17 IST 2016
+Sensor ID: T_R_1 Temperature: 14.3 time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: H_R_1 Humidity: 55.0 time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:04:22 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 14.8 time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: H_R_2 Humidity: 56.0 time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:04:22 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 14.4 time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: H_R_3 Humidity: 56.0 time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:04:22 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 15.0 time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: H_R_4 Humidity: 56.0 time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:04:22 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 13.2 time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: H_R_5 Humidity: 56.0 time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:04:22 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 79 Time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 1 RFID Tag: 90 Time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 75 Time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 1 RFID Tag: 56 Time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 1 RFID Tag: 9 Time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 0 RFID Tag: 14 Time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 0 RFID Tag: 77 Time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:04:22 IST 2016
+Sensor ID: T_R_1 Temperature: 14.6 time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: H_R_1 Humidity: 55.0 time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:04:27 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 14.2 time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: H_R_2 Humidity: 57.0 time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:04:27 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 13.6 time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: H_R_3 Humidity: 56.0 time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:04:27 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 15.0 time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: H_R_4 Humidity: 57.0 time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:04:27 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 14.3 time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: H_R_5 Humidity: 57.0 time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:04:27 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 63 Time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 0 RFID Tag: 75 Time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 7 Time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 1 RFID Tag: 75 Time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 14 Time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 0 RFID Tag: 93 Time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 2 Time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:04:27 IST 2016
+Sensor ID: T_R_1 Temperature: 14.0 time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: H_R_1 Humidity: 55.0 time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:04:32 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 13.2 time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: H_R_2 Humidity: 57.0 time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:04:32 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 13.2 time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: H_R_3 Humidity: 56.0 time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:04:32 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 14.5 time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: H_R_4 Humidity: 57.0 time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:04:32 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 13.7 time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: H_R_5 Humidity: 57.0 time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:04:32 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 1 RFID Tag: 6 Time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 1 RFID Tag: 8 Time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 99 Time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 0 RFID Tag: 90 Time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 1 RFID Tag: 8 Time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 98 Time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 84 Time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:04:32 IST 2016
+Sensor ID: T_R_1 Temperature: 14.0 time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: H_R_1 Humidity: 56.0 time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:04:37 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 14.6 time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: H_R_2 Humidity: 57.0 time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:04:37 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 13.6 time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: H_R_3 Humidity: 56.0 time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:04:37 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 14.7 time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: H_R_4 Humidity: 58.0 time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:04:37 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 13.8 time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: H_R_5 Humidity: 57.0 time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:04:37 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 1 RFID Tag: 82 Time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 0 RFID Tag: 12 Time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 33 Time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 1 RFID Tag: 75 Time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 1 RFID Tag: 7 Time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 84 Time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 34 Time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:04:37 IST 2016
+Sensor ID: T_R_1 Temperature: 13.6 time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: H_R_1 Humidity: 56.0 time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:04:42 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 15.0 time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: H_R_2 Humidity: 57.0 time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:04:42 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 14.1 time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: H_R_3 Humidity: 57.0 time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:04:42 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 14.4 time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: H_R_4 Humidity: 58.0 time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:04:42 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 14.0 time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: H_R_5 Humidity: 58.0 time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:04:42 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 1 RFID Tag: 62 Time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 0 RFID Tag: 28 Time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 95 Time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 1 RFID Tag: 66 Time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 60 Time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 0 RFID Tag: 44 Time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 0 RFID Tag: 64 Time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:04:42 IST 2016
+Sensor ID: T_R_1 Temperature: 14.8 time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: H_R_1 Humidity: 56.0 time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:04:47 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 13.8 time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: H_R_2 Humidity: 58.0 time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:04:47 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 13.4 time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: H_R_3 Humidity: 57.0 time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:04:47 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 14.3 time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: H_R_4 Humidity: 58.0 time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:04:47 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 13.6 time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: H_R_5 Humidity: 58.0 time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:04:47 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 96 Time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 0 RFID Tag: 16 Time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 10 Time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 0 RFID Tag: 53 Time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 17 Time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 44 Time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 16 Time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:04:47 IST 2016
+Sensor ID: T_R_1 Temperature: 14.2 time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: H_R_1 Humidity: 56.0 time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:04:52 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 14.6 time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: H_R_2 Humidity: 58.0 time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:04:52 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 14.4 time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: H_R_3 Humidity: 57.0 time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:04:52 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 13.2 time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: H_R_4 Humidity: 58.0 time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:04:52 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 13.6 time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: H_R_5 Humidity: 58.0 time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:04:52 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 28 Time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 71 Time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 75 Time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 1 RFID Tag: 24 Time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 1 RFID Tag: 38 Time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 58 Time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 13 Time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:04:52 IST 2016
+Sensor ID: T_R_1 Temperature: 14.3 time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: H_R_1 Humidity: 56.0 time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:04:57 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 13.3 time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: H_R_2 Humidity: 58.0 time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:04:57 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 14.1 time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: H_R_3 Humidity: 57.0 time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:04:57 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 13.4 time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: H_R_4 Humidity: 58.0 time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:04:57 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 14.3 time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: H_R_5 Humidity: 59.0 time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:04:57 IST 2016
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 92 Time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 91 Time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 49 Time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 1 RFID Tag: 90 Time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 34 Time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 1 RFID Tag: 96 Time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 0 RFID Tag: 80 Time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:04:57 IST 2016
+Sensor ID: T_R_1 Temperature: 13.9 time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: H_R_1 Humidity: 56.0 time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:05:02 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 14.4 time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: H_R_2 Humidity: 59.0 time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:05:02 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 14.0 time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: H_R_3 Humidity: 57.0 time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:02 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 13.2 time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: H_R_4 Humidity: 58.0 time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:02 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 14.2 time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: H_R_5 Humidity: 59.0 time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:02 IST 2016
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 1 RFID Tag: 3 Time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 1 RFID Tag: 53 Time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 18 Time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 1 RFID Tag: 26 Time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 19 Time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 0 RFID Tag: 20 Time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 1 RFID Tag: 50 Time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: R_G Flag: 0 time: Mon Nov 21 17:05:02 IST 2016
+Sensor ID: T_R_1 Temperature: 14.2 time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: H_R_1 Humidity: 56.0 time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:05:07 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 14.4 time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: H_R_2 Humidity: 60.0 time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:05:07 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 14.2 time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: H_R_3 Humidity: 57.0 time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:07 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 13.6 time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: H_R_4 Humidity: 58.0 time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:07 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 13.7 time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: H_R_5 Humidity: 59.0 time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:07 IST 2016
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 93 Time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 1 RFID Tag: -3 Time: Mon Nov 21 17:05:07 IST 2016
+Intruder DETECTED
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 96 Time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 1 RFID Tag: 11 Time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 74 Time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 1 RFID Tag: 8 Time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 0 RFID Tag: 70 Time: Mon Nov 21 17:05:07 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:05:07 IST 2016
+RAIN DETECTED
+Sensor ID: T_R_1 Temperature: 14.9 time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: H_R_1 Humidity: 57.0 time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:05:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 14.7 time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: H_R_2 Humidity: 60.0 time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:05:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 14.1 time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: H_R_3 Humidity: 57.0 time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 14.3 time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: H_R_4 Humidity: 58.0 time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:12 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 14.3 time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: H_R_5 Humidity: 59.0 time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:12 IST 2016
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 22 Time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 62 Time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 7 Time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 0 RFID Tag: 64 Time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 0 RFID Tag: 91 Time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 0 RFID Tag: 24 Time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 1 RFID Tag: 61 Time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:05:12 IST 2016
+Sensor ID: T_R_1 Temperature: 59.5 time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: H_R_1 Humidity: 58.0 time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:05:17 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 47.0 time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: H_R_2 Humidity: 61.0 time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:05:17 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 63.1 time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: H_R_3 Humidity: 57.0 time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:17 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 46.7 time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: H_R_4 Humidity: 58.0 time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:17 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 68.6 time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: H_R_5 Humidity: 59.0 time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:17 IST 2016
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 1 RFID Tag: 19 Time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 1 RFID Tag: 31 Time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 15 Time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 0 RFID Tag: 11 Time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 12 Time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 0 RFID Tag: 35 Time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 1 RFID Tag: 10 Time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:05:17 IST 2016
+Sensor ID: T_R_1 Temperature: 63.2 time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: H_R_1 Humidity: 58.0 time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:05:22 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 50.2 time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: H_R_2 Humidity: 61.0 time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:05:22 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 66.6 time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: H_R_3 Humidity: 58.0 time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:22 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 48.8 time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: H_R_4 Humidity: 58.0 time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:22 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 72.7 time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: H_R_5 Humidity: 59.0 time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:22 IST 2016
+SUSPECTED situation at T_R_5
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 48 Time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 1 RFID Tag: 12 Time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 33 Time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 1 RFID Tag: 31 Time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 84 Time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 0 RFID Tag: 31 Time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 1 RFID Tag: 78 Time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:05:22 IST 2016
+Sensor ID: T_R_1 Temperature: 65.8 time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: H_R_1 Humidity: 58.0 time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:05:27 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 52.6 time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: H_R_2 Humidity: 62.0 time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:05:27 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 69.3 time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: H_R_3 Humidity: 58.0 time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:27 IST 2016
+SUSPECTED situation at T_R_3
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 51.6 time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: H_R_4 Humidity: 59.0 time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:27 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 76.7 time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: H_R_5 Humidity: 59.0 time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:27 IST 2016
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 72 Time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 40 Time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 52 Time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 1 RFID Tag: 58 Time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 12 Time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 0 RFID Tag: 47 Time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 0 RFID Tag: 54 Time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:05:27 IST 2016
+Sensor ID: T_R_1 Temperature: 68.9 time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: H_R_1 Humidity: 58.0 time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:05:32 IST 2016
+SUSPECTED situation at T_R_1
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 56.1 time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: H_R_2 Humidity: 62.0 time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:05:32 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 73.1 time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: H_R_3 Humidity: 59.0 time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:32 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 54.3 time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: H_R_4 Humidity: 59.0 time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:32 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 80.8 time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: H_R_5 Humidity: 59.0 time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:32 IST 2016
+SUSPECTED situation at T_R_5
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 70 Time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 13 Time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 75 Time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 1 RFID Tag: 68 Time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 0 RFID Tag: 40 Time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 0 RFID Tag: 74 Time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 0 RFID Tag: 19 Time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:05:32 IST 2016
+Sensor ID: T_R_1 Temperature: 72.7 time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: H_R_1 Humidity: 58.0 time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:05:37 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 58.2 time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: H_R_2 Humidity: 63.0 time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:05:37 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 76.1 time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: H_R_3 Humidity: 59.0 time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:37 IST 2016
+SUSPECTED situation at T_R_3
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 59.2 time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: H_R_4 Humidity: 60.0 time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:37 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 83.3 time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: H_R_5 Humidity: 60.0 time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:37 IST 2016
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 1 RFID Tag: 68 Time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 42 Time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 29 Time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 0 RFID Tag: 89 Time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 0 RFID Tag: 15 Time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 0 RFID Tag: 29 Time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 1 RFID Tag: 99 Time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:05:37 IST 2016
+Sensor ID: T_R_1 Temperature: 75.6 time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: H_R_1 Humidity: 58.0 time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:05:42 IST 2016
+SUSPECTED situation at T_R_1
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 61.7 time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: H_R_2 Humidity: 64.0 time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:05:42 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 78.2 time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: H_R_3 Humidity: 60.0 time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:42 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 62.4 time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: H_R_4 Humidity: 60.0 time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:42 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 86.7 time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: H_R_5 Humidity: 61.0 time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:42 IST 2016
+SUSPECTED situation at T_R_5
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 36 Time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 1 RFID Tag: 7 Time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 22 Time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 0 RFID Tag: 52 Time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 27 Time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 1 RFID Tag: 50 Time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 1 RFID Tag: 19 Time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:05:42 IST 2016
+Sensor ID: T_R_1 Temperature: 79.8 time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: H_R_1 Humidity: 58.0 time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:05:47 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 65.5 time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: H_R_2 Humidity: 64.0 time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:05:47 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 82.9 time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: H_R_3 Humidity: 60.0 time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:47 IST 2016
+SUSPECTED situation at T_R_3
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 65.5 time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: H_R_4 Humidity: 60.0 time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:47 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 90.0 time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: H_R_5 Humidity: 61.0 time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:47 IST 2016
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 1 RFID Tag: 4 Time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 0 RFID Tag: 11 Time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 58 Time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 0 RFID Tag: 18 Time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 29 Time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 0 RFID Tag: 12 Time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 1 RFID Tag: 30 Time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:05:47 IST 2016
+Sensor ID: T_R_1 Temperature: 78.1 time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: H_R_1 Humidity: 58.0 time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: M_R_1 Flag: 0 time: Mon Nov 21 17:05:52 IST 2016
+SUSPECTED situation at T_R_1
+MOTION NOT DETECTED
+Sensor ID: T_R_2 Temperature: 64.3 time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: H_R_2 Humidity: 63.0 time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:05:52 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 82.9 time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: H_R_3 Humidity: 60.0 time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:52 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 61.2 time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: H_R_4 Humidity: 60.0 time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:52 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 86.2 time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: H_R_5 Humidity: 61.0 time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:52 IST 2016
+SUSPECTED situation at T_R_5
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 0 RFID Flag: 1 RFID Tag: 23 Time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 0 RFID Tag: 23 Time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 24 Time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 1 RFID Tag: 61 Time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 66 Time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 0 RFID Tag: 64 Time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 1 RFID Tag: 10 Time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:05:52 IST 2016
+Sensor ID: T_R_1 Temperature: 73.2 time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: H_R_1 Humidity: 59.0 time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: M_R_1 Flag: 0 time: Mon Nov 21 17:05:57 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_2 Temperature: 61.8 time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: H_R_2 Humidity: 64.0 time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:05:57 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 81.3 time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: H_R_3 Humidity: 61.0 time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:05:57 IST 2016
+SUSPECTED situation at T_R_3
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 60.4 time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: H_R_4 Humidity: 60.0 time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:05:57 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 85.0 time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: H_R_5 Humidity: 61.0 time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:05:57 IST 2016
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 0 RFID Flag: 0 RFID Tag: 74 Time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 0 RFID Tag: 78 Time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 49 Time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 0 RFID Tag: 6 Time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 61 Time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 0 RFID Tag: 73 Time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 0 RFID Tag: 95 Time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:05:57 IST 2016
+Sensor ID: T_R_1 Temperature: 69.7 time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: H_R_1 Humidity: 60.0 time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: M_R_1 Flag: 0 time: Mon Nov 21 17:06:02 IST 2016
+SUSPECTED situation at T_R_1
+MOTION NOT DETECTED
+Sensor ID: T_R_2 Temperature: 58.2 time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: H_R_2 Humidity: 64.0 time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:06:02 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 81.0 time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: H_R_3 Humidity: 61.0 time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:02 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 57.5 time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: H_R_4 Humidity: 60.0 time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:06:02 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 80.7 time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: H_R_5 Humidity: 60.0 time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:06:02 IST 2016
+SUSPECTED situation at T_R_5
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 0 RFID Flag: 1 RFID Tag: 42 Time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 0 RFID Tag: 31 Time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 53 Time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 1 RFID Tag: 96 Time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 0 RFID Tag: 42 Time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 1 RFID Tag: 83 Time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 1 RFID Tag: 68 Time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:02 IST 2016
+Sensor ID: T_R_1 Temperature: 65.3 time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: H_R_1 Humidity: 61.0 time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: M_R_1 Flag: 0 time: Mon Nov 21 17:06:07 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_2 Temperature: 57.5 time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: H_R_2 Humidity: 65.0 time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: M_R_2 Flag: 0 time: Mon Nov 21 17:06:07 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_3 Temperature: 80.6 time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: H_R_3 Humidity: 62.0 time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:07 IST 2016
+SUSPECTED situation at T_R_3
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 53.5 time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: H_R_4 Humidity: 61.0 time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:06:07 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 80.1 time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: H_R_5 Humidity: 61.0 time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: M_R_5 Flag: 0 time: Mon Nov 21 17:06:07 IST 2016
+MOTION NOT DETECTED
+Sensor ID: RF_1 Motion Flag: 0 RFID Flag: 0 RFID Tag: 54 Time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: RF_2 Motion Flag: 0 RFID Flag: 1 RFID Tag: 63 Time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 51 Time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 0 RFID Tag: 79 Time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 0 RFID Tag: 93 Time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: RF_6 Motion Flag: 0 RFID Flag: 1 RFID Tag: 27 Time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: RF_7 Motion Flag: 0 RFID Flag: 0 RFID Tag: 95 Time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:07 IST 2016
+Sensor ID: T_R_1 Temperature: 65.0 time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: H_R_1 Humidity: 60.0 time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: M_R_1 Flag: 0 time: Mon Nov 21 17:06:12 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_2 Temperature: 54.9 time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: H_R_2 Humidity: 65.0 time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:06:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 77.8 time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: H_R_3 Humidity: 62.0 time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 52.1 time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: H_R_4 Humidity: 60.0 time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:06:12 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 76.5 time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: H_R_5 Humidity: 60.0 time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:06:12 IST 2016
+SUSPECTED situation at T_R_5
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 0 RFID Flag: 0 RFID Tag: 48 Time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 19 Time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 68 Time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 0 RFID Tag: 53 Time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 0 RFID Tag: 13 Time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 19 Time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 0 RFID Tag: 73 Time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:12 IST 2016
+Sensor ID: T_R_1 Temperature: 63.9 time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: H_R_1 Humidity: 61.0 time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: M_R_1 Flag: 0 time: Mon Nov 21 17:06:17 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_2 Temperature: 54.3 time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: H_R_2 Humidity: 64.0 time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:06:17 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 74.2 time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: H_R_3 Humidity: 61.0 time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:17 IST 2016
+SUSPECTED situation at T_R_3
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 50.9 time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: H_R_4 Humidity: 61.0 time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:06:17 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 74.4 time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: H_R_5 Humidity: 60.0 time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:06:17 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 0 RFID Flag: 1 RFID Tag: 63 Time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 22 Time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 12 Time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 1 RFID Tag: 55 Time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 0 RFID Tag: 24 Time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 44 Time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 0 RFID Tag: 95 Time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:17 IST 2016
+Sensor ID: T_R_1 Temperature: 61.7 time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: H_R_1 Humidity: 61.0 time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: M_R_1 Flag: 0 time: Mon Nov 21 17:06:22 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_2 Temperature: 52.8 time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: H_R_2 Humidity: 63.0 time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:06:22 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 71.8 time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: H_R_3 Humidity: 60.0 time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:22 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 46.9 time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: H_R_4 Humidity: 60.0 time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:06:22 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 70.9 time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: H_R_5 Humidity: 61.0 time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:06:22 IST 2016
+SUSPECTED situation at T_R_5
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 0 RFID Flag: 1 RFID Tag: 38 Time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 54 Time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 72 Time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 0 RFID Tag: 55 Time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 34 Time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 74 Time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 33 Time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:22 IST 2016
+Sensor ID: T_R_1 Temperature: 58.4 time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: H_R_1 Humidity: 60.0 time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: M_R_1 Flag: 0 time: Mon Nov 21 17:06:27 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_2 Temperature: 49.5 time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: H_R_2 Humidity: 62.0 time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:06:27 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 68.0 time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: H_R_3 Humidity: 60.0 time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:27 IST 2016
+SUSPECTED situation at T_R_3
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 43.9 time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: H_R_4 Humidity: 60.0 time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:06:27 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 70.6 time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: H_R_5 Humidity: 60.0 time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:06:27 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 0 RFID Flag: 1 RFID Tag: 24 Time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 58 Time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 54 Time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 0 RFID Tag: 69 Time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 1 RFID Tag: 98 Time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 49 Time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 0 RFID Tag: 89 Time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:27 IST 2016
+Sensor ID: T_R_1 Temperature: 56.1 time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: H_R_1 Humidity: 61.0 time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: M_R_1 Flag: 0 time: Mon Nov 21 17:06:32 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_2 Temperature: 45.6 time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: H_R_2 Humidity: 61.0 time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:06:32 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 64.0 time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: H_R_3 Humidity: 60.0 time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:32 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 40.4 time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: H_R_4 Humidity: 61.0 time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: M_R_4 Flag: 0 time: Mon Nov 21 17:06:32 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_5 Temperature: 67.8 time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: H_R_5 Humidity: 61.0 time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:06:32 IST 2016
+SUSPECTED situation at T_R_5
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 0 RFID Flag: 0 RFID Tag: 30 Time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 32 Time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 8 Time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: RF_4 Motion Flag: 0 RFID Flag: 0 RFID Tag: 84 Time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: RF_5 Motion Flag: 0 RFID Flag: 0 RFID Tag: 16 Time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 49 Time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 0 RFID Tag: 75 Time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:32 IST 2016
+Sensor ID: T_R_1 Temperature: 54.7 time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: H_R_1 Humidity: 60.0 time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: M_R_1 Flag: 0 time: Mon Nov 21 17:06:37 IST 2016
+MOTION NOT DETECTED
+Sensor ID: T_R_2 Temperature: 41.4 time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: H_R_2 Humidity: 60.0 time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:06:37 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 61.7 time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: H_R_3 Humidity: 60.0 time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:37 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 39.4 time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: H_R_4 Humidity: 62.0 time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:06:37 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 64.3 time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: H_R_5 Humidity: 62.0 time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:06:37 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 0 RFID Flag: 1 RFID Tag: 17 Time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 1 RFID Tag: 79 Time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 34 Time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 1 RFID Tag: 107 Time: Mon Nov 21 17:06:37 IST 2016
+Intruder DETECTED
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 51 Time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 43 Time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 79 Time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:37 IST 2016
+Sensor ID: T_R_1 Temperature: 50.6 time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: H_R_1 Humidity: 61.0 time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:06:42 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 40.4 time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: H_R_2 Humidity: 60.0 time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:06:42 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 59.5 time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: H_R_3 Humidity: 60.0 time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:42 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 38.6 time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: H_R_4 Humidity: 63.0 time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:06:42 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 63.6 time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: H_R_5 Humidity: 61.0 time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:06:42 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 91 Time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 1 RFID Tag: 55 Time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 28 Time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 0 RFID Tag: 23 Time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 1 RFID Tag: 29 Time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 0 RFID Tag: 54 Time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 51 Time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:42 IST 2016
+Sensor ID: T_R_1 Temperature: 49.5 time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: H_R_1 Humidity: 61.0 time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:06:47 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 38.0 time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: H_R_2 Humidity: 61.0 time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:06:47 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 55.7 time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: H_R_3 Humidity: 61.0 time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:47 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 38.0 time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: H_R_4 Humidity: 63.0 time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:06:47 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 63.2 time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: H_R_5 Humidity: 60.0 time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:06:47 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 89 Time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 10 Time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 76 Time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 1 RFID Tag: 69 Time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 1 RFID Tag: 46 Time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 0 RFID Tag: 6 Time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 5 Time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:47 IST 2016
+Sensor ID: T_R_1 Temperature: 49.2 time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: H_R_1 Humidity: 60.0 time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:06:52 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 35.4 time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: H_R_2 Humidity: 62.0 time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:06:52 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 51.4 time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: H_R_3 Humidity: 61.0 time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:52 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 35.3 time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: H_R_4 Humidity: 62.0 time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:06:52 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 61.1 time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: H_R_5 Humidity: 60.0 time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:06:52 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 41 Time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 0 RFID Tag: 22 Time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 41 Time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 1 RFID Tag: 52 Time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 47 Time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 31 Time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 92 Time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:52 IST 2016
+Sensor ID: T_R_1 Temperature: 47.4 time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: H_R_1 Humidity: 60.0 time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:06:57 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 34.5 time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: H_R_2 Humidity: 61.0 time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:06:57 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 50.8 time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: H_R_3 Humidity: 61.0 time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:06:57 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 32.8 time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: H_R_4 Humidity: 61.0 time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:06:57 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 59.7 time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: H_R_5 Humidity: 60.0 time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:06:57 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 65 Time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 1 RFID Tag: 36 Time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 45 Time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 1 RFID Tag: 63 Time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 27 Time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 56 Time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 46 Time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:06:57 IST 2016
+Sensor ID: T_R_1 Temperature: 42.7 time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: H_R_1 Humidity: 60.0 time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:07:02 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 33.5 time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: H_R_2 Humidity: 61.0 time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:07:02 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 46.4 time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: H_R_3 Humidity: 62.0 time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:07:02 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 28.1 time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: H_R_4 Humidity: 61.0 time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:07:02 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 59.1 time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: H_R_5 Humidity: 61.0 time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:07:02 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 1 RFID Tag: 47 Time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 1 RFID Tag: 37 Time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 0 RFID Tag: 74 Time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 0 RFID Tag: 44 Time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 10 Time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 66 Time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 0 RFID Tag: 15 Time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:07:02 IST 2016
+Sensor ID: T_R_1 Temperature: 38.3 time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: H_R_1 Humidity: 60.0 time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:07:07 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 31.2 time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: H_R_2 Humidity: 61.0 time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:07:07 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 44.1 time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: H_R_3 Humidity: 61.0 time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:07:07 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 26.5 time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: H_R_4 Humidity: 62.0 time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:07:07 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 54.6 time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: H_R_5 Humidity: 61.0 time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:07:07 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 1 RFID Tag: 91 Time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 1 RFID Tag: 10 Time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 61 Time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 0 RFID Tag: 38 Time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 31 Time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 81 Time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 30 Time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:07:07 IST 2016
+Sensor ID: T_R_1 Temperature: 37.1 time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: H_R_1 Humidity: 60.0 time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: M_R_1 Flag: 1 time: Mon Nov 21 17:07:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_2 Temperature: 26.5 time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: H_R_2 Humidity: 61.0 time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: M_R_2 Flag: 1 time: Mon Nov 21 17:07:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_3 Temperature: 42.8 time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: H_R_3 Humidity: 61.0 time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: M_R_3 Flag: 1 time: Mon Nov 21 17:07:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_4 Temperature: 22.4 time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: H_R_4 Humidity: 62.0 time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: M_R_4 Flag: 1 time: Mon Nov 21 17:07:12 IST 2016
+MOTION DETECTED
+Sensor ID: T_R_5 Temperature: 52.1 time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: H_R_5 Humidity: 60.0 time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: M_R_5 Flag: 1 time: Mon Nov 21 17:07:12 IST 2016
+MOTION DETECTED
+Sensor ID: RF_1 Motion Flag: 1 RFID Flag: 0 RFID Tag: 71 Time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: RF_2 Motion Flag: 1 RFID Flag: 1 RFID Tag: 38 Time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: RF_3 Motion Flag: 1 RFID Flag: 1 RFID Tag: 32 Time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: RF_4 Motion Flag: 1 RFID Flag: 1 RFID Tag: 62 Time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: RF_5 Motion Flag: 1 RFID Flag: 0 RFID Tag: 91 Time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: RF_6 Motion Flag: 1 RFID Flag: 1 RFID Tag: 82 Time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: RF_7 Motion Flag: 1 RFID Flag: 1 RFID Tag: 42 Time: Mon Nov 21 17:07:12 IST 2016
+Sensor ID: R_G Flag: 1 time: Mon Nov 21 17:07:12 IST 2016
+BUILD STOPPED (total time: 24 seconds)
+

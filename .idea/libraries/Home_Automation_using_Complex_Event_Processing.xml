@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Home-Automation-using-Complex-Event-Processing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/antlr-runtime-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/esper-5.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cglib-nodep-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
